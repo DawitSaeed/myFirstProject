@@ -1,0 +1,30 @@
+h1{
+    color: red;
+    font-family: Poppins;
+    font-size: x-large;
+}
+#dav{
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+}
+h1{
+    display: none;
+
+}
+#ok{
+    width: 400px;
+    height: 20px;
+    border-left: 2px solid black;
+}
+#select{
+    outline: none;
+}
+input{
+    outline: none;
+}
+#change{
+    height: 30px;
+    width: 100px;
+    border-left: 3px solid black;
+}
